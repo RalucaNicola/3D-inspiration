@@ -1,5 +1,5 @@
 # 3D-inspiration
-A collection of inspiring 3D visualizations
+A collection of inspiring 3D visualizations: https://ralucanicola.github.io/3D-inspiration/
 
 Information provided about each viz:
 
