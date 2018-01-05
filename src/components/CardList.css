@@ -1,0 +1,31 @@
+.card-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card {
+  max-width: 250px;
+  margin: 20px;
+}
+
+.card-title>span {
+  font-family: 'Roboto Mono', monospace;
+  font-size: 1em !important;
+  line-height: 20px !important;
+}
+
+.desc {
+  text-align: left;
+  font-size: 0.8em !important;
+}
+
+.desc>article {
+  margin: 10px 0
+}
+
+a {
+  text-decoration: none;
+  border-bottom: dashed 1px rgb(79, 79, 79);
+  color: rgb(79, 79, 79);
+}

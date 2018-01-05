@@ -1,0 +1,122 @@
+{
+  "apps": [{
+    "framework": "ThreeJS",
+    "author": "National Geographic",
+    "image": "newyorkcityskyline.png",
+    "tags": ["ThreeJS", "urban visualization"],
+    "title": "The New New York Skyline",
+    "url": "https://www.nationalgeographic.com/new-york-city-skyline-tallest-midtown-manhattan/"
+  }, {
+    "framework": "ThreeJS",
+    "author": "National Geographic",
+    "image": "exploringmars.png",
+    "tags": ["ThreeJS", "planets"],
+    "title": "Exploring Mars",
+    "url": "https://www.nationalgeographic.com/science/2016/11/exploring-mars-map-panorama-pictures/"
+  }, {
+    "framework": "ArcGIS API for JavaScript",
+    "author": "esri",
+    "image": "visionzero.png",
+    "tags": ["ArcGIS API for JavaScript", "real time", "urban visualization"],
+    "title": "Vision zero",
+    "url": "http://coolmaps.esri.com/#13"
+  }, {
+    "framework": "ArcGIS API for JavaScript",
+    "author": "esri",
+    "image": "nycnoise.png",
+    "tags": ["ArcGIS API for JavaScript", "heatmap", "pollution"],
+    "title": "NYC Noise Complaints",
+    "url": "http://coolmaps.esri.com/NYC/Noise/"
+  }, {
+    "framework": "ThreeJS",
+    "author": "The New York Times",
+    "image": "thedownwall.png",
+    "tags": ["ThreeJS", "mountaineering"],
+    "title": "The Down Wall",
+    "url": "https://www.nytimes.com/interactive/2015/01/09/sports/the-dawn-wall-el-capitan.html"
+  }, {
+    "framework": "D3",
+    "author": "Cameron Beccario",
+    "image": "earth.png",
+    "tags": ["D3js", "climate"],
+    "title": "earth",
+    "url": "https://earth.nullschool.net/"
+  }, {
+    "framework": "ThreeJS",
+    "author": "Kasperky",
+    "image": "earth2050.png",
+    "tags": ["ThreeJS", "fiction"],
+    "title": "Earth 2050",
+    "url": "https://2050.earth/"
+  }, {
+    "framework": "ThreeJS",
+    "author": "The New York Times",
+    "image": "reshapingnewyork.png",
+    "tags": ["ThreeJS", "urban visualization"],
+    "title": "Reshaping New York",
+    "url": "http://www.nytimes.com/newsgraphics/2013/08/18/reshaping-new-york/"
+  }, {
+    "framework": "ThreeJS",
+    "author": "Fox movies",
+    "image": "warof1996.png",
+    "tags": ["ThreeJS", "fiction"],
+    "title": "The war of 1996",
+    "url": "http://www.warof1996.com/"
+  }, {
+    "framework": "ThreeJS",
+    "author": "Google Labs",
+    "image": "armsglobe.png",
+    "tags": ["ThreeJS", "military"],
+    "title": "Mapping arms data",
+    "url": "http://armsglobe.chromeexperiments.com/"
+  }, {
+    "framework": "WebGL",
+    "author": "Taylor Baldwin",
+    "image": "thecitibikecommute.png",
+    "tags": ["WebGL", "bike"],
+    "title": "The city bike commute",
+    "url": "https://tbaldw.in/citibike-trips"
+  }, {
+    "framework": "ThreeJS",
+    "author": "Bitfellas & Acko",
+    "image": "analysis.png",
+    "tags": ["ThreeJS", "music", "sketch"],
+    "title": "Analysis",
+    "url": "http://analysis.4sceners.de/"
+  }, {
+    "framework": "ThreeJS",
+    "author": "Google Data Arts Team",
+    "image": "worldpopulation.png",
+    "tags": ["ThreeJS", "population"],
+    "title": "World population",
+    "url": "http://globe.chromeexperiments.com/"
+  }, {
+    "framework": "ThreeJS",
+    "author": "Google Maps & B-Reel",
+    "image": "cube.png",
+    "tags": ["ThreeJS", "game"],
+    "title": "Google Maps Cube",
+    "url": "http://www.playmapscube.com/"
+  }, {
+    "framework": "ThreeJS",
+    "image": "metrogram.png",
+    "author": "nulldesign.jp - Hiroshi Koi",
+    "tags": [ "real time" ],
+    "title": "Metrogram 3D",
+    "url": "http://nulldesign.jp/metrogram3d/"
+  }, {
+    "framework": "ThreeJS",
+    "author": "Google News Lab",
+    "image": "aworldofchange.png",
+    "tags": ["ThreeJS", "climate"],
+    "title": "A world of change",
+    "url": "http://news-lab-trends-experiment.appspot.com/"
+  }, {
+    "framework": "OSMBuildings",
+    "author": "Berliner Morgenpost & Webkid",
+    "image": "berlinskyline.png",
+    "tags": ["OSMBuildings", "urban visualization"],
+    "title": "Berlins neue Skyline",
+    "url": "https://interaktiv.morgenpost.de/berlins-neue-skyline/"
+  }]
+}

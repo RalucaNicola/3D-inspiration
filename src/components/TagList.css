@@ -1,0 +1,16 @@
+.tag-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.chip {
+  margin: 4px !important;
+}
+
+.chip>span {
+  font-size: 0.7em !important;
+  font-family: 'Roboto Mono', monospace;
+  line-height: inherit !important;
+}
