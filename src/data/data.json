@@ -55,7 +55,22 @@
     "tags": ["ThreeJS", "urban visualization"],
     "title": "Reshaping New York",
     "url": "http://www.nytimes.com/newsgraphics/2013/08/18/reshaping-new-york/"
+  },{
+    "framework": "MapboxGL",
+    "author": "MC Sputnik, Urbica, Novaya & oneFactor",
+    "image": "agglomerations.png",
+    "tags": ["MapboxGL", "urban visualization", "population"],
+    "title": "The Age of Agglomerations",
+    "url": "https://agglomerations.ru/research"
   }, {
+    "framework": "ThreeJS",
+    "image": "u2tours.png",
+    "author": "BERNWOOD & STEINWARD",
+    "tags": ["ThreeJS", "music"],
+    "title": "U2 tours 1979 - 2015",
+    "url": "http://u2allovertheworld.com/"
+
+  },{
     "framework": "ThreeJS",
     "author": "Fox movies",
     "image": "warof1996.png",
