@@ -24,14 +24,14 @@
     "framework": "ArcGIS API for JavaScript",
     "author": "esri",
     "image": "nycnoise.png",
-    "tags": ["ArcGIS API for JavaScript", "heatmap", "pollution"],
+    "tags": ["ArcGIS API for JavaScript", "pollution"],
     "title": "NYC Noise Complaints",
     "url": "http://coolmaps.esri.com/NYC/Noise/"
   }, {
     "framework": "ThreeJS",
     "author": "The New York Times",
     "image": "thedownwall.png",
-    "tags": ["ThreeJS", "mountaineering"],
+    "tags": ["ThreeJS", "mountains"],
     "title": "The Down Wall",
     "url": "https://www.nytimes.com/interactive/2015/01/09/sports/the-dawn-wall-el-capitan.html"
   }, {
@@ -132,6 +132,20 @@
     "image": "berlinskyline.png",
     "tags": ["OSMBuildings", "urban visualization"],
     "title": "Berlins neue Skyline",
+    "url": "https://interaktiv.morgenpost.de/berlins-neue-skyline/"
+  }, {
+    "framework": "vizcities",
+    "author": "Berliner Morgenpost",
+    "image": "mietenskyline.png",
+    "tags": ["vizcities", "urban visualization"],
+    "title": "Mieten-Skyline",
+    "url": "https://interaktiv.morgenpost.de/mieten-grossstaedte-deutschland/"
+  }, {
+    "framework": "ThreeJS",
+    "author": "Procedural",
+    "image": "bergwelten.png",
+    "tags": ["ThreeJS", "mountains"],
+    "title": "Bergwelten",
     "url": "https://interaktiv.morgenpost.de/berlins-neue-skyline/"
   }]
 }
